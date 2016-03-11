@@ -1,6 +1,6 @@
 {
   "name": "uniformity-blog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "First attempts at adding plugin functionality",
   "main": "plugin.js",
   "repository": {
