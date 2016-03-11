@@ -1,6 +1,6 @@
 {
   "name": "uniformity-blog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "First attempts at adding plugin functionality",
   "main": "plugin.js",
   "repository": {
@@ -18,8 +18,7 @@
     "url": "https://github.com/apocist/uniformity-blog/issues"
   },
   "homepage": "http://inverseinnovations.com",
-  "dependencies": {
-  },
+  "dependencies": {},
   "engines": {
     "node": ">=4.2.1 <=5.4.0"
   }
