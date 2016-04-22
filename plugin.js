@@ -21,6 +21,7 @@ module.exports = function(callback) {
 				order: 2000,
 				item: __dirname+'/app/views'
 			}]
-		}
+		},
+		defaults: {}
 	});
 };
