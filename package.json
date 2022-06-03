@@ -1,0 +1,25 @@
+{
+  "name": "uniformity-blog",
+  "version": "0.0.8",
+  "description": "First attempts at adding plugin functionality",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apocist/uniformity-blog.git"
+  },
+  "keywords": [
+    "uniformity",
+    "plugin",
+    "blog"
+  ],
+  "author": "Apocist <apocist@yahoo.com> (http://inverseinnovations.com/)",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/apocist/uniformity-blog/issues"
+  },
+  "homepage": "http://inverseinnovations.com",
+  "dependencies": {},
+  "engines": {
+    "node": ">=4.2.1 <=5.4.0"
+  }
+}
